@@ -1,0 +1,13 @@
+{
+  "id" : "https://clio001.github.io/Test-Project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in clio001/Test-Project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://clio001.github.io/Test-Project/manifests/832953709.manifest.json",
+    "label" : "Petermann, August: The Search For Franklin"
+  } ]
+}
